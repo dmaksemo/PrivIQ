@@ -1,0 +1,28 @@
+{
+  "production_log_analytics": {
+    "source_type": "log_analytics",
+    "workspace_id": "371f1ab2-f8cd-44ee-9031-f65cfbf73e6a",
+    "tenant_id": "bb2f2603-07b0-46e0-85b9-7beb53949a01",
+    "client_id": "6898f128-b80f-4a57-a4c9-1bd70ab5f48d",
+    "client_secret": "GQn8Q~onyMIgVZZC-D5fzylIYIaXbyj0vvgUKcQn"
+  },
+  "production_blob_storage": {
+    "source_type": "storage_account",
+    "storage_account_name": "strlogicanalyticscap",
+    "container_name": "entraidlogs",
+    "connection_string": "DefaultEndpointsProtocol=https;AccountName=strlogicanalyticscap;AccountKey=M2Aaqi51VPQFwFI354x/jOsPxHUcyEhbGzQnVHUBgVOBs4kEVaoK4azV1cG8AS+Ya9UWj6SfKa6x+AStQjt+NQ==;EndpointSuffix=core.windows.net"
+  },
+  "development_log_analytics": {
+    "source_type": "log_analytics", 
+    "workspace_id": "dev-workspace-id",
+    "tenant_id": "dev-tenant-id",
+    "client_id": "dev-client-id",
+    "client_secret": "dev-client-secret"
+  },
+  "archive_storage": {
+    "source_type": "storage_account",
+    "storage_account_name": "archivestorage",
+    "container_name": "historical-logs",
+    "connection_string": "DefaultEndpointsProtocol=https;AccountName=archivestorage;AccountKey=your-key;EndpointSuffix=core.windows.net"
+  }
+}

@@ -1,0 +1,55 @@
+# requirements.txt - PrivIQ
+# Dependências para Aplicação de Análise de Governança e Compliance Azure
+
+# === INTERFACE WEB ===
+streamlit>=1.28.0
+
+# === MANIPULAÇÃO DE DADOS ===
+pandas>=2.0.0
+numpy>=1.24.0
+
+# === VISUALIZAÇÃO ===
+plotly>=5.15.0
+
+# === AZURE SDK (ESSENCIAL) ===
+azure-identity>=1.15.0
+azure-monitor-query>=1.3.0
+azure-storage-blob>=12.19.0
+azure-core>=1.29.0
+
+# === INTELIGÊNCIA ARTIFICIAL ===
+openai>=1.12.0
+
+# === VALIDAÇÃO DE DADOS ===
+pydantic>=2.0.0
+
+# === CONFIGURAÇÃO E AMBIENTE ===
+python-dotenv>=1.0.0
+
+# === OPCIONAL: DESENVOLVIMENTO ===
+# Descomente se quiser usar durante desenvolvimento
+# pytest>=7.4.0
+# pytest-asyncio>=0.21.0
+# black>=23.0.0
+# flake8>=6.0.0
+
+# === OPCIONAL: PERFORMANCE ===
+# Descomente se precisar de melhor performance
+# asyncio-throttle>=1.0.2
+# aiofiles>=23.0.0
+# scipy>=1.10.0
+# scikit-learn>=1.3.0
+
+# === OPCIONAL: MONITORAMENTO ===
+# Descomente para logs estruturados e métricas
+# structlog>=23.0.0
+# prometheus-client>=0.17.0
+
+# === OPCIONAL: SEGURANÇA ADICIONAL ===
+# Descomente para criptografia adicional
+# cryptography>=41.0.0
+
+# === OPCIONAL: DOCUMENTAÇÃO ===
+# Descomente para gerar documentação
+# mkdocs>=1.5.0
+# mkdocs-material>=9.0.0

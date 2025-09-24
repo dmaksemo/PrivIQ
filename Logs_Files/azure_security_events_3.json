@@ -1,0 +1,902 @@
+[
+  {
+    "event_id": "EVT0001",
+    "timestamp": "2025-09-09T01:08:25.032940",
+    "user": "user040@example.com",
+    "action": "Login",
+    "resource": "VM",
+    "severity": "Medium",
+    "location": "East US"
+  },
+  {
+    "event_id": "EVT0002",
+    "timestamp": "2025-09-12T01:34:25.032959",
+    "user": "user063@example.com",
+    "action": "Login",
+    "resource": "KeyVault",
+    "severity": "Medium",
+    "location": "East US"
+  },
+  {
+    "event_id": "EVT0003",
+    "timestamp": "2025-09-10T12:55:25.032967",
+    "user": "user027@example.com",
+    "action": "AccessResource",
+    "resource": "NetworkInterface",
+    "severity": "High",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0004",
+    "timestamp": "2025-09-12T13:17:25.032972",
+    "user": "user070@example.com",
+    "action": "DeleteResource",
+    "resource": "VM",
+    "severity": "High",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0005",
+    "timestamp": "2025-09-11T13:06:25.032977",
+    "user": "user062@example.com",
+    "action": "ModifySettings",
+    "resource": "VM",
+    "severity": "High",
+    "location": "Australia East"
+  },
+  {
+    "event_id": "EVT0006",
+    "timestamp": "2025-09-09T21:18:25.032981",
+    "user": "user060@example.com",
+    "action": "AccessResource",
+    "resource": "Database",
+    "severity": "High",
+    "location": "East US"
+  },
+  {
+    "event_id": "EVT0007",
+    "timestamp": "2025-09-15T14:30:25.032986",
+    "user": "user037@example.com",
+    "action": "ModifySettings",
+    "resource": "NetworkInterface",
+    "severity": "Medium",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0008",
+    "timestamp": "2025-09-15T10:08:25.032990",
+    "user": "user084@example.com",
+    "action": "DeleteResource",
+    "resource": "Database",
+    "severity": "Low",
+    "location": "Southeast Asia"
+  },
+  {
+    "event_id": "EVT0009",
+    "timestamp": "2025-09-12T23:57:25.032994",
+    "user": "user046@example.com",
+    "action": "Login",
+    "resource": "VM",
+    "severity": "High",
+    "location": "East US"
+  },
+  {
+    "event_id": "EVT0010",
+    "timestamp": "2025-09-14T08:03:25.032999",
+    "user": "user038@example.com",
+    "action": "AccessResource",
+    "resource": "NetworkInterface",
+    "severity": "High",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0011",
+    "timestamp": "2025-09-13T09:53:25.033003",
+    "user": "user026@example.com",
+    "action": "DeleteResource",
+    "resource": "NetworkInterface",
+    "severity": "High",
+    "location": "Australia East"
+  },
+  {
+    "event_id": "EVT0012",
+    "timestamp": "2025-09-15T17:59:25.033011",
+    "user": "user036@example.com",
+    "action": "CreateResource",
+    "resource": "VM",
+    "severity": "Medium",
+    "location": "East US"
+  },
+  {
+    "event_id": "EVT0013",
+    "timestamp": "2025-09-11T09:42:25.033015",
+    "user": "user091@example.com",
+    "action": "DeleteResource",
+    "resource": "Database",
+    "severity": "High",
+    "location": "Southeast Asia"
+  },
+  {
+    "event_id": "EVT0014",
+    "timestamp": "2025-09-12T05:02:25.033019",
+    "user": "user070@example.com",
+    "action": "ModifySettings",
+    "resource": "VM",
+    "severity": "Medium",
+    "location": "Australia East"
+  },
+  {
+    "event_id": "EVT0015",
+    "timestamp": "2025-09-10T07:04:25.033023",
+    "user": "user035@example.com",
+    "action": "ModifySettings",
+    "resource": "Database",
+    "severity": "Medium",
+    "location": "Australia East"
+  },
+  {
+    "event_id": "EVT0016",
+    "timestamp": "2025-09-13T11:39:25.033027",
+    "user": "user085@example.com",
+    "action": "ModifySettings",
+    "resource": "StorageAccount",
+    "severity": "Low",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0017",
+    "timestamp": "2025-09-09T13:52:25.033031",
+    "user": "user029@example.com",
+    "action": "CreateResource",
+    "resource": "NetworkInterface",
+    "severity": "High",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0018",
+    "timestamp": "2025-09-13T12:20:25.033036",
+    "user": "user031@example.com",
+    "action": "Login",
+    "resource": "VM",
+    "severity": "High",
+    "location": "West Europe"
+  },
+  {
+    "event_id": "EVT0019",
+    "timestamp": "2025-09-13T16:29:25.033040",
+    "user": "user014@example.com",
+    "action": "DeleteResource",
+    "resource": "Database",
+    "severity": "Medium",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0020",
+    "timestamp": "2025-09-15T20:33:25.033044",
+    "user": "user048@example.com",
+    "action": "DeleteResource",
+    "resource": "StorageAccount",
+    "severity": "Critical",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0021",
+    "timestamp": "2025-09-14T18:48:25.033048",
+    "user": "user098@example.com",
+    "action": "CreateResource",
+    "resource": "StorageAccount",
+    "severity": "Low",
+    "location": "East US"
+  },
+  {
+    "event_id": "EVT0022",
+    "timestamp": "2025-09-15T08:37:25.033052",
+    "user": "user045@example.com",
+    "action": "CreateResource",
+    "resource": "StorageAccount",
+    "severity": "Medium",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0023",
+    "timestamp": "2025-09-15T04:23:25.033056",
+    "user": "user033@example.com",
+    "action": "DeleteResource",
+    "resource": "StorageAccount",
+    "severity": "Medium",
+    "location": "Southeast Asia"
+  },
+  {
+    "event_id": "EVT0024",
+    "timestamp": "2025-09-15T14:51:25.033060",
+    "user": "user014@example.com",
+    "action": "CreateResource",
+    "resource": "VM",
+    "severity": "Low",
+    "location": "West Europe"
+  },
+  {
+    "event_id": "EVT0025",
+    "timestamp": "2025-09-14T11:59:25.033064",
+    "user": "user001@example.com",
+    "action": "Login",
+    "resource": "NetworkInterface",
+    "severity": "High",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0026",
+    "timestamp": "2025-09-09T03:13:25.033068",
+    "user": "user055@example.com",
+    "action": "CreateResource",
+    "resource": "StorageAccount",
+    "severity": "Medium",
+    "location": "Southeast Asia"
+  },
+  {
+    "event_id": "EVT0027",
+    "timestamp": "2025-09-12T19:18:25.033072",
+    "user": "user039@example.com",
+    "action": "AccessResource",
+    "resource": "KeyVault",
+    "severity": "Critical",
+    "location": "East US"
+  },
+  {
+    "event_id": "EVT0028",
+    "timestamp": "2025-09-14T23:39:25.033076",
+    "user": "user028@example.com",
+    "action": "Login",
+    "resource": "KeyVault",
+    "severity": "Medium",
+    "location": "Southeast Asia"
+  },
+  {
+    "event_id": "EVT0029",
+    "timestamp": "2025-09-14T22:54:25.033080",
+    "user": "user056@example.com",
+    "action": "Login",
+    "resource": "NetworkInterface",
+    "severity": "High",
+    "location": "West Europe"
+  },
+  {
+    "event_id": "EVT0030",
+    "timestamp": "2025-09-09T10:29:25.033084",
+    "user": "user024@example.com",
+    "action": "ModifySettings",
+    "resource": "StorageAccount",
+    "severity": "High",
+    "location": "West Europe"
+  },
+  {
+    "event_id": "EVT0031",
+    "timestamp": "2025-09-12T22:20:25.033088",
+    "user": "user012@example.com",
+    "action": "Login",
+    "resource": "KeyVault",
+    "severity": "Low",
+    "location": "Southeast Asia"
+  },
+  {
+    "event_id": "EVT0032",
+    "timestamp": "2025-09-11T22:58:25.033092",
+    "user": "user063@example.com",
+    "action": "ModifySettings",
+    "resource": "KeyVault",
+    "severity": "Medium",
+    "location": "East US"
+  },
+  {
+    "event_id": "EVT0033",
+    "timestamp": "2025-09-09T20:45:25.033096",
+    "user": "user048@example.com",
+    "action": "AccessResource",
+    "resource": "VM",
+    "severity": "Low",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0034",
+    "timestamp": "2025-09-15T14:22:25.033100",
+    "user": "user059@example.com",
+    "action": "CreateResource",
+    "resource": "NetworkInterface",
+    "severity": "High",
+    "location": "West Europe"
+  },
+  {
+    "event_id": "EVT0035",
+    "timestamp": "2025-09-09T12:25:25.033104",
+    "user": "user008@example.com",
+    "action": "AccessResource",
+    "resource": "Database",
+    "severity": "High",
+    "location": "West Europe"
+  },
+  {
+    "event_id": "EVT0036",
+    "timestamp": "2025-09-13T13:57:25.033108",
+    "user": "user089@example.com",
+    "action": "DeleteResource",
+    "resource": "VM",
+    "severity": "Low",
+    "location": "Australia East"
+  },
+  {
+    "event_id": "EVT0037",
+    "timestamp": "2025-09-14T17:51:25.033112",
+    "user": "user087@example.com",
+    "action": "DeleteResource",
+    "resource": "VM",
+    "severity": "High",
+    "location": "East US"
+  },
+  {
+    "event_id": "EVT0038",
+    "timestamp": "2025-09-15T22:56:25.033115",
+    "user": "user079@example.com",
+    "action": "DeleteResource",
+    "resource": "NetworkInterface",
+    "severity": "Medium",
+    "location": "West Europe"
+  },
+  {
+    "event_id": "EVT0039",
+    "timestamp": "2025-09-12T17:51:25.033119",
+    "user": "user070@example.com",
+    "action": "ModifySettings",
+    "resource": "StorageAccount",
+    "severity": "Low",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0040",
+    "timestamp": "2025-09-11T20:40:25.033124",
+    "user": "user058@example.com",
+    "action": "CreateResource",
+    "resource": "Database",
+    "severity": "Medium",
+    "location": "Southeast Asia"
+  },
+  {
+    "event_id": "EVT0041",
+    "timestamp": "2025-09-14T23:50:25.033131",
+    "user": "user041@example.com",
+    "action": "DeleteResource",
+    "resource": "NetworkInterface",
+    "severity": "High",
+    "location": "East US"
+  },
+  {
+    "event_id": "EVT0042",
+    "timestamp": "2025-09-15T14:05:25.033136",
+    "user": "user011@example.com",
+    "action": "CreateResource",
+    "resource": "KeyVault",
+    "severity": "Medium",
+    "location": "Australia East"
+  },
+  {
+    "event_id": "EVT0043",
+    "timestamp": "2025-09-14T03:02:25.033140",
+    "user": "user004@example.com",
+    "action": "ModifySettings",
+    "resource": "Database",
+    "severity": "Low",
+    "location": "West Europe"
+  },
+  {
+    "event_id": "EVT0044",
+    "timestamp": "2025-09-13T12:16:25.033145",
+    "user": "user068@example.com",
+    "action": "Login",
+    "resource": "KeyVault",
+    "severity": "Medium",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0045",
+    "timestamp": "2025-09-11T05:06:25.033148",
+    "user": "user032@example.com",
+    "action": "CreateResource",
+    "resource": "StorageAccount",
+    "severity": "High",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0046",
+    "timestamp": "2025-09-14T07:57:25.033152",
+    "user": "user042@example.com",
+    "action": "CreateResource",
+    "resource": "NetworkInterface",
+    "severity": "Medium",
+    "location": "Australia East"
+  },
+  {
+    "event_id": "EVT0047",
+    "timestamp": "2025-09-09T22:09:25.033157",
+    "user": "user077@example.com",
+    "action": "ModifySettings",
+    "resource": "KeyVault",
+    "severity": "Medium",
+    "location": "Southeast Asia"
+  },
+  {
+    "event_id": "EVT0048",
+    "timestamp": "2025-09-10T05:41:25.033161",
+    "user": "user038@example.com",
+    "action": "DeleteResource",
+    "resource": "VM",
+    "severity": "Medium",
+    "location": "West Europe"
+  },
+  {
+    "event_id": "EVT0049",
+    "timestamp": "2025-09-14T13:41:25.033164",
+    "user": "user039@example.com",
+    "action": "DeleteResource",
+    "resource": "KeyVault",
+    "severity": "Low",
+    "location": "Southeast Asia"
+  },
+  {
+    "event_id": "EVT0050",
+    "timestamp": "2025-09-09T15:53:25.033168",
+    "user": "user071@example.com",
+    "action": "DeleteResource",
+    "resource": "NetworkInterface",
+    "severity": "Medium",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0051",
+    "timestamp": "2025-09-13T08:29:25.033172",
+    "user": "user069@example.com",
+    "action": "Login",
+    "resource": "KeyVault",
+    "severity": "Low",
+    "location": "West Europe"
+  },
+  {
+    "event_id": "EVT0052",
+    "timestamp": "2025-09-10T14:13:25.033176",
+    "user": "user009@example.com",
+    "action": "DeleteResource",
+    "resource": "KeyVault",
+    "severity": "High",
+    "location": "West Europe"
+  },
+  {
+    "event_id": "EVT0053",
+    "timestamp": "2025-09-09T03:04:25.033180",
+    "user": "user034@example.com",
+    "action": "ModifySettings",
+    "resource": "Database",
+    "severity": "Medium",
+    "location": "Southeast Asia"
+  },
+  {
+    "event_id": "EVT0054",
+    "timestamp": "2025-09-10T09:16:25.033184",
+    "user": "user050@example.com",
+    "action": "ModifySettings",
+    "resource": "VM",
+    "severity": "Medium",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0055",
+    "timestamp": "2025-09-15T05:20:25.033188",
+    "user": "user076@example.com",
+    "action": "AccessResource",
+    "resource": "NetworkInterface",
+    "severity": "Medium",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0056",
+    "timestamp": "2025-09-10T18:16:25.033192",
+    "user": "user087@example.com",
+    "action": "DeleteResource",
+    "resource": "VM",
+    "severity": "High",
+    "location": "Southeast Asia"
+  },
+  {
+    "event_id": "EVT0057",
+    "timestamp": "2025-09-14T10:39:25.033195",
+    "user": "user020@example.com",
+    "action": "Login",
+    "resource": "NetworkInterface",
+    "severity": "Medium",
+    "location": "East US"
+  },
+  {
+    "event_id": "EVT0058",
+    "timestamp": "2025-09-14T06:41:25.033199",
+    "user": "user096@example.com",
+    "action": "ModifySettings",
+    "resource": "KeyVault",
+    "severity": "Medium",
+    "location": "East US"
+  },
+  {
+    "event_id": "EVT0059",
+    "timestamp": "2025-09-14T21:54:25.033204",
+    "user": "user076@example.com",
+    "action": "CreateResource",
+    "resource": "StorageAccount",
+    "severity": "High",
+    "location": "Australia East"
+  },
+  {
+    "event_id": "EVT0060",
+    "timestamp": "2025-09-13T03:43:25.033207",
+    "user": "user082@example.com",
+    "action": "ModifySettings",
+    "resource": "VM",
+    "severity": "Critical",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0061",
+    "timestamp": "2025-09-10T15:20:25.033211",
+    "user": "user027@example.com",
+    "action": "AccessResource",
+    "resource": "StorageAccount",
+    "severity": "High",
+    "location": "West Europe"
+  },
+  {
+    "event_id": "EVT0062",
+    "timestamp": "2025-09-14T20:31:25.033215",
+    "user": "user051@example.com",
+    "action": "AccessResource",
+    "resource": "KeyVault",
+    "severity": "Low",
+    "location": "Australia East"
+  },
+  {
+    "event_id": "EVT0063",
+    "timestamp": "2025-09-14T02:53:25.033219",
+    "user": "user002@example.com",
+    "action": "CreateResource",
+    "resource": "StorageAccount",
+    "severity": "High",
+    "location": "Australia East"
+  },
+  {
+    "event_id": "EVT0064",
+    "timestamp": "2025-09-14T11:10:25.033223",
+    "user": "user001@example.com",
+    "action": "CreateResource",
+    "resource": "VM",
+    "severity": "Low",
+    "location": "Southeast Asia"
+  },
+  {
+    "event_id": "EVT0065",
+    "timestamp": "2025-09-15T17:26:25.033227",
+    "user": "user081@example.com",
+    "action": "AccessResource",
+    "resource": "NetworkInterface",
+    "severity": "Medium",
+    "location": "East US"
+  },
+  {
+    "event_id": "EVT0066",
+    "timestamp": "2025-09-11T08:11:25.033231",
+    "user": "user035@example.com",
+    "action": "ModifySettings",
+    "resource": "NetworkInterface",
+    "severity": "Low",
+    "location": "Australia East"
+  },
+  {
+    "event_id": "EVT0067",
+    "timestamp": "2025-09-14T10:57:25.033235",
+    "user": "user074@example.com",
+    "action": "CreateResource",
+    "resource": "VM",
+    "severity": "Medium",
+    "location": "Australia East"
+  },
+  {
+    "event_id": "EVT0068",
+    "timestamp": "2025-09-11T13:32:25.033239",
+    "user": "user004@example.com",
+    "action": "DeleteResource",
+    "resource": "VM",
+    "severity": "Medium",
+    "location": "East US"
+  },
+  {
+    "event_id": "EVT0069",
+    "timestamp": "2025-09-14T20:06:25.033242",
+    "user": "user015@example.com",
+    "action": "DeleteResource",
+    "resource": "KeyVault",
+    "severity": "High",
+    "location": "East US"
+  },
+  {
+    "event_id": "EVT0070",
+    "timestamp": "2025-09-12T23:22:25.033246",
+    "user": "user089@example.com",
+    "action": "DeleteResource",
+    "resource": "NetworkInterface",
+    "severity": "Medium",
+    "location": "West Europe"
+  },
+  {
+    "event_id": "EVT0071",
+    "timestamp": "2025-09-13T00:40:25.033250",
+    "user": "user064@example.com",
+    "action": "ModifySettings",
+    "resource": "StorageAccount",
+    "severity": "Low",
+    "location": "Southeast Asia"
+  },
+  {
+    "event_id": "EVT0072",
+    "timestamp": "2025-09-14T14:07:25.033254",
+    "user": "user003@example.com",
+    "action": "AccessResource",
+    "resource": "StorageAccount",
+    "severity": "Low",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0073",
+    "timestamp": "2025-09-11T11:46:25.033258",
+    "user": "user091@example.com",
+    "action": "Login",
+    "resource": "KeyVault",
+    "severity": "High",
+    "location": "East US"
+  },
+  {
+    "event_id": "EVT0074",
+    "timestamp": "2025-09-10T20:22:25.033262",
+    "user": "user040@example.com",
+    "action": "Login",
+    "resource": "NetworkInterface",
+    "severity": "Medium",
+    "location": "Southeast Asia"
+  },
+  {
+    "event_id": "EVT0075",
+    "timestamp": "2025-09-09T10:33:25.033265",
+    "user": "user066@example.com",
+    "action": "DeleteResource",
+    "resource": "StorageAccount",
+    "severity": "Medium",
+    "location": "West Europe"
+  },
+  {
+    "event_id": "EVT0076",
+    "timestamp": "2025-09-14T21:52:25.033269",
+    "user": "user043@example.com",
+    "action": "CreateResource",
+    "resource": "VM",
+    "severity": "Medium",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0077",
+    "timestamp": "2025-09-13T20:05:25.033273",
+    "user": "user096@example.com",
+    "action": "DeleteResource",
+    "resource": "VM",
+    "severity": "Medium",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0078",
+    "timestamp": "2025-09-14T00:51:25.033277",
+    "user": "user027@example.com",
+    "action": "AccessResource",
+    "resource": "KeyVault",
+    "severity": "Low",
+    "location": "Southeast Asia"
+  },
+  {
+    "event_id": "EVT0079",
+    "timestamp": "2025-09-14T14:01:25.033281",
+    "user": "user073@example.com",
+    "action": "DeleteResource",
+    "resource": "NetworkInterface",
+    "severity": "Medium",
+    "location": "West Europe"
+  },
+  {
+    "event_id": "EVT0080",
+    "timestamp": "2025-09-15T08:24:25.033285",
+    "user": "user034@example.com",
+    "action": "DeleteResource",
+    "resource": "Database",
+    "severity": "Low",
+    "location": "West Europe"
+  },
+  {
+    "event_id": "EVT0081",
+    "timestamp": "2025-09-10T11:55:25.033289",
+    "user": "user097@example.com",
+    "action": "Login",
+    "resource": "Database",
+    "severity": "Medium",
+    "location": "Australia East"
+  },
+  {
+    "event_id": "EVT0082",
+    "timestamp": "2025-09-09T10:08:25.033292",
+    "user": "user097@example.com",
+    "action": "CreateResource",
+    "resource": "Database",
+    "severity": "Medium",
+    "location": "Southeast Asia"
+  },
+  {
+    "event_id": "EVT0083",
+    "timestamp": "2025-09-12T11:21:25.033296",
+    "user": "user053@example.com",
+    "action": "ModifySettings",
+    "resource": "VM",
+    "severity": "Medium",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0084",
+    "timestamp": "2025-09-15T05:09:25.033300",
+    "user": "user006@example.com",
+    "action": "DeleteResource",
+    "resource": "Database",
+    "severity": "High",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0085",
+    "timestamp": "2025-09-12T06:37:25.033304",
+    "user": "user038@example.com",
+    "action": "Login",
+    "resource": "NetworkInterface",
+    "severity": "Medium",
+    "location": "Southeast Asia"
+  },
+  {
+    "event_id": "EVT0086",
+    "timestamp": "2025-09-13T06:45:25.033308",
+    "user": "user084@example.com",
+    "action": "Login",
+    "resource": "StorageAccount",
+    "severity": "Medium",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0087",
+    "timestamp": "2025-09-10T15:54:25.033312",
+    "user": "user058@example.com",
+    "action": "CreateResource",
+    "resource": "NetworkInterface",
+    "severity": "Low",
+    "location": "East US"
+  },
+  {
+    "event_id": "EVT0088",
+    "timestamp": "2025-09-11T11:31:25.033316",
+    "user": "user064@example.com",
+    "action": "ModifySettings",
+    "resource": "NetworkInterface",
+    "severity": "High",
+    "location": "Australia East"
+  },
+  {
+    "event_id": "EVT0089",
+    "timestamp": "2025-09-15T03:51:25.033320",
+    "user": "user050@example.com",
+    "action": "CreateResource",
+    "resource": "NetworkInterface",
+    "severity": "Critical",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0090",
+    "timestamp": "2025-09-13T04:57:25.033326",
+    "user": "user091@example.com",
+    "action": "Login",
+    "resource": "VM",
+    "severity": "High",
+    "location": "East US"
+  },
+  {
+    "event_id": "EVT0091",
+    "timestamp": "2025-09-11T11:39:25.033331",
+    "user": "user038@example.com",
+    "action": "ModifySettings",
+    "resource": "VM",
+    "severity": "Medium",
+    "location": "Australia East"
+  },
+  {
+    "event_id": "EVT0092",
+    "timestamp": "2025-09-11T16:53:25.033335",
+    "user": "user055@example.com",
+    "action": "CreateResource",
+    "resource": "VM",
+    "severity": "High",
+    "location": "Southeast Asia"
+  },
+  {
+    "event_id": "EVT0093",
+    "timestamp": "2025-09-13T12:20:25.033339",
+    "user": "user033@example.com",
+    "action": "Login",
+    "resource": "StorageAccount",
+    "severity": "Medium",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0094",
+    "timestamp": "2025-09-11T07:50:25.033343",
+    "user": "user013@example.com",
+    "action": "Login",
+    "resource": "VM",
+    "severity": "High",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0095",
+    "timestamp": "2025-09-09T13:29:25.033346",
+    "user": "user001@example.com",
+    "action": "Login",
+    "resource": "VM",
+    "severity": "Medium",
+    "location": "West Europe"
+  },
+  {
+    "event_id": "EVT0096",
+    "timestamp": "2025-09-09T02:46:25.033350",
+    "user": "user075@example.com",
+    "action": "Login",
+    "resource": "NetworkInterface",
+    "severity": "Critical",
+    "location": "Australia East"
+  },
+  {
+    "event_id": "EVT0097",
+    "timestamp": "2025-09-14T13:42:25.033354",
+    "user": "user044@example.com",
+    "action": "ModifySettings",
+    "resource": "NetworkInterface",
+    "severity": "Medium",
+    "location": "Australia East"
+  },
+  {
+    "event_id": "EVT0098",
+    "timestamp": "2025-09-12T12:46:25.033358",
+    "user": "user047@example.com",
+    "action": "AccessResource",
+    "resource": "StorageAccount",
+    "severity": "Low",
+    "location": "Brazil South"
+  },
+  {
+    "event_id": "EVT0099",
+    "timestamp": "2025-09-09T12:36:25.033361",
+    "user": "user071@example.com",
+    "action": "CreateResource",
+    "resource": "Database",
+    "severity": "Medium",
+    "location": "West Europe"
+  },
+  {
+    "event_id": "EVT0100",
+    "timestamp": "2025-09-09T19:03:25.033365",
+    "user": "user060@example.com",
+    "action": "ModifySettings",
+    "resource": "VM",
+    "severity": "Medium",
+    "location": "Australia East"
+  }
+]

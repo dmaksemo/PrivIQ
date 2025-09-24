@@ -1,0 +1,1333 @@
+[
+  {
+    "event_id": "5c8211a3-ed25-4095-b60e-4620bc322b1d",
+    "timestamp": "2025-08-30T06:57:54.556621",
+    "user": "user_096",
+    "severity": "Critical",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "AdminGroup",
+      "SecurityTeam",
+      "CloudOps",
+      "NetworkAdmins",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "ba0789de-4754-4f11-9ae8-affc784b2204",
+    "timestamp": "2025-09-02T23:44:39.556685",
+    "user": "user_098",
+    "severity": "Critical",
+    "action": "ModifySettings",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "CloudOps",
+      "DatabaseAdmins",
+      "SecurityTeam"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "28075177-c619-4198-bffe-e9bf592c9274",
+    "timestamp": "2025-08-24T11:58:27.556726",
+    "user": "user_024",
+    "severity": "Critical",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "CloudOps",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "bc86a2a6-483e-4cab-b77c-0c932870ee11",
+    "timestamp": "2025-09-03T18:58:07.557211",
+    "user": "user_081",
+    "severity": "Critical",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "AdminGroup"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "62877a13-dc73-4c8c-8928-91005e30bd79",
+    "timestamp": "2025-08-23T03:10:33.557268",
+    "user": "user_069",
+    "severity": "Critical",
+    "action": "Login",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "CloudOps"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "65f846b2-c4e8-4eb2-ad0c-02aae7f61ccb",
+    "timestamp": "2025-09-13T16:03:07.557307",
+    "user": "user_098",
+    "severity": "High",
+    "action": "Login",
+    "privileged_groups": [
+      "DatabaseAdmins",
+      "CloudOps",
+      "AdminGroup"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "f272d6f5-a894-488c-99e9-3e7d29bdcf50",
+    "timestamp": "2025-09-03T22:54:15.557391",
+    "user": "user_076",
+    "severity": "High",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "SecurityTeam",
+      "CloudOps",
+      "AdminGroup"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "0f22d152-8cce-4adb-855c-b0481fe7cdd9",
+    "timestamp": "2025-09-08T11:16:40.557436",
+    "user": "user_060",
+    "severity": "High",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "CloudOps",
+      "NetworkAdmins",
+      "DatabaseAdmins",
+      "SecurityTeam",
+      "AdminGroup"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "2b90d4a0-d03f-4d7c-b0f9-303e27388e00",
+    "timestamp": "2025-09-08T21:20:03.557473",
+    "user": "user_002",
+    "severity": "High",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "AdminGroup",
+      "NetworkAdmins",
+      "DatabaseAdmins",
+      "CloudOps",
+      "SecurityTeam"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "d66b1e22-51fa-42e2-abbd-c633a528b7de",
+    "timestamp": "2025-09-05T01:51:19.557572",
+    "user": "user_048",
+    "severity": "High",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "AdminGroup",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "bb11fada-745d-49af-b454-6b4e9170b7f0",
+    "timestamp": "2025-09-05T05:11:59.557616",
+    "user": "user_017",
+    "severity": "High",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "SecurityTeam",
+      "AdminGroup",
+      "CloudOps",
+      "DatabaseAdmins",
+      "NetworkAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "b3a62e17-61ba-4aa2-96a1-8205a56dd540",
+    "timestamp": "2025-08-27T09:31:54.557644",
+    "user": "user_079",
+    "severity": "High",
+    "action": "Login",
+    "privileged_groups": [
+      "AdminGroup",
+      "SecurityTeam",
+      "DatabaseAdmins",
+      "CloudOps",
+      "NetworkAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "6ed884da-ed0a-4d39-86e0-740936829abd",
+    "timestamp": "2025-08-28T02:02:41.557668",
+    "user": "user_057",
+    "severity": "High",
+    "action": "Login",
+    "privileged_groups": [
+      "CloudOps",
+      "AdminGroup"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "23ae3889-7791-4267-9176-39579c69b463",
+    "timestamp": "2025-08-28T03:04:08.557689",
+    "user": "user_032",
+    "severity": "High",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "SecurityTeam",
+      "CloudOps",
+      "AdminGroup",
+      "DatabaseAdmins",
+      "NetworkAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "823d0b82-12ae-4ed8-8462-c1eb247eae9f",
+    "timestamp": "2025-08-25T05:16:47.557717",
+    "user": "user_061",
+    "severity": "High",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "DatabaseAdmins",
+      "SecurityTeam",
+      "NetworkAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "c79f117a-7db0-476e-bfef-01657431f3da",
+    "timestamp": "2025-09-04T01:24:50.557759",
+    "user": "user_042",
+    "severity": "High",
+    "action": "Login",
+    "privileged_groups": [
+      "SecurityTeam",
+      "CloudOps",
+      "DatabaseAdmins",
+      "NetworkAdmins",
+      "AdminGroup"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "63abbca3-58c7-4547-be74-802413c8cf32",
+    "timestamp": "2025-09-11T01:31:41.557787",
+    "user": "user_091",
+    "severity": "High",
+    "action": "Login",
+    "privileged_groups": [
+      "SecurityTeam",
+      "CloudOps",
+      "NetworkAdmins",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "69bc35f8-4fe6-4837-beb7-d1fb7aa3a31a",
+    "timestamp": "2025-08-31T00:45:30.557811",
+    "user": "user_088",
+    "severity": "High",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "CloudOps",
+      "AdminGroup",
+      "NetworkAdmins",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "f58302d2-0f49-4ad4-9494-7ae4c530e682",
+    "timestamp": "2025-09-16T20:41:47.557834",
+    "user": "user_015",
+    "severity": "High",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "DatabaseAdmins",
+      "SecurityTeam"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "16276bb5-9b9c-45a1-b6ac-fdeb9c834b30",
+    "timestamp": "2025-09-01T20:17:14.557859",
+    "user": "user_041",
+    "severity": "High",
+    "action": "Login",
+    "privileged_groups": [
+      "CloudOps",
+      "AdminGroup",
+      "DatabaseAdmins",
+      "NetworkAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "160f5800-d9af-404b-a456-36ede3c3cea5",
+    "timestamp": "2025-09-13T01:48:28.557885",
+    "user": "user_096",
+    "severity": "High",
+    "action": "Login",
+    "privileged_groups": [
+      "CloudOps",
+      "NetworkAdmins",
+      "SecurityTeam",
+      "AdminGroup",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "63fae385-c15f-4e36-a556-02acfc9e0650",
+    "timestamp": "2025-09-13T19:51:56.557937",
+    "user": "user_058",
+    "severity": "High",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "AdminGroup",
+      "CloudOps"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "9a71119e-f3a4-4ca1-a445-83c8b7aaffb8",
+    "timestamp": "2025-08-25T18:14:51.557974",
+    "user": "user_042",
+    "severity": "High",
+    "action": "ModifySettings",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "29133202-bec5-44ae-889f-afbb24ce7314",
+    "timestamp": "2025-09-01T05:07:48.558010",
+    "user": "user_028",
+    "severity": "High",
+    "action": "Login",
+    "privileged_groups": [
+      "AdminGroup",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "8f296827-d137-4655-aaa6-916377c169e9",
+    "timestamp": "2025-09-07T02:52:31.558088",
+    "user": "user_095",
+    "severity": "High",
+    "action": "Login",
+    "privileged_groups": [
+      "CloudOps",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "044c941f-90d6-454d-9d5e-e8871974cae3",
+    "timestamp": "2025-08-27T22:40:15.558128",
+    "user": "user_013",
+    "severity": "High",
+    "action": "ModifySettings",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "CloudOps",
+      "SecurityTeam"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "3d02c527-46be-4684-abcb-a2ca5cda9f0d",
+    "timestamp": "2025-08-23T02:55:18.558163",
+    "user": "user_005",
+    "severity": "High",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "AdminGroup",
+      "SecurityTeam",
+      "DatabaseAdmins",
+      "CloudOps"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "e7a14a6e-c13b-4935-9093-701613ea759d",
+    "timestamp": "2025-08-17T14:05:51.558244",
+    "user": "user_022",
+    "severity": "High",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "DatabaseAdmins",
+      "NetworkAdmins",
+      "AdminGroup",
+      "CloudOps"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "7e723e9f-288e-49fc-bfbd-125fdc530f6b",
+    "timestamp": "2025-09-05T07:06:59.558292",
+    "user": "user_012",
+    "severity": "High",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "AdminGroup",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "d620a669-6605-4c28-8fc5-352c73828910",
+    "timestamp": "2025-08-17T17:48:41.558329",
+    "user": "user_092",
+    "severity": "High",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "DatabaseAdmins",
+      "AdminGroup",
+      "CloudOps"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "64aaeee2-7a60-48a0-9f68-1907a065fa7d",
+    "timestamp": "2025-09-04T08:56:50.558362",
+    "user": "user_085",
+    "severity": "High",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "SecurityTeam",
+      "NetworkAdmins"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "522e0508-bb89-4823-9a43-9b569a39f076",
+    "timestamp": "2025-09-12T03:50:45.558393",
+    "user": "user_066",
+    "severity": "High",
+    "action": "Login",
+    "privileged_groups": [
+      "CloudOps",
+      "NetworkAdmins",
+      "AdminGroup"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "53a52215-e1e4-437d-8589-42a7267f19c3",
+    "timestamp": "2025-08-20T08:35:45.558426",
+    "user": "user_018",
+    "severity": "High",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "CloudOps",
+      "DatabaseAdmins",
+      "SecurityTeam"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "2dbc0c73-1465-40f3-96e6-caf9f47e9bfe",
+    "timestamp": "2025-08-21T11:23:22.558534",
+    "user": "user_011",
+    "severity": "High",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "CloudOps",
+      "SecurityTeam",
+      "DatabaseAdmins",
+      "NetworkAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "be438f72-8501-418e-ad08-623c65b90069",
+    "timestamp": "2025-09-08T14:24:51.558579",
+    "user": "user_016",
+    "severity": "High",
+    "action": "Login",
+    "privileged_groups": [
+      "DatabaseAdmins",
+      "SecurityTeam",
+      "NetworkAdmins",
+      "CloudOps",
+      "AdminGroup"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "9c829bf6-e641-4234-8ac7-64af5a3bc27f",
+    "timestamp": "2025-08-30T05:18:46.558611",
+    "user": "user_065",
+    "severity": "Medium",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "SecurityTeam",
+      "NetworkAdmins"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "016b1e91-c817-4e41-9af0-020db9ca2a8e",
+    "timestamp": "2025-09-11T10:05:35.559515",
+    "user": "user_073",
+    "severity": "Medium",
+    "action": "Login",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "AdminGroup",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "5457b2d8-03cb-429c-ac5d-c8e489f8c905",
+    "timestamp": "2025-09-06T08:58:30.559571",
+    "user": "user_048",
+    "severity": "Medium",
+    "action": "ModifySettings",
+    "privileged_groups": [
+      "CloudOps",
+      "NetworkAdmins",
+      "AdminGroup"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "e81ecd33-cff0-4346-b12e-3116cf794d15",
+    "timestamp": "2025-08-19T13:03:00.559616",
+    "user": "user_080",
+    "severity": "Medium",
+    "action": "ModifySettings",
+    "privileged_groups": [
+      "CloudOps",
+      "NetworkAdmins"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "180af6b5-9c3f-458b-ac89-45f72bc1ea40",
+    "timestamp": "2025-08-30T21:06:20.559664",
+    "user": "user_023",
+    "severity": "Medium",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "SecurityTeam",
+      "DatabaseAdmins",
+      "AdminGroup",
+      "CloudOps"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "fd66553f-d8f5-41c2-8f41-a0048ccc0190",
+    "timestamp": "2025-09-15T03:49:03.559709",
+    "user": "user_084",
+    "severity": "Medium",
+    "action": "Login",
+    "privileged_groups": [
+      "CloudOps",
+      "AdminGroup"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "6f60a731-18cd-4d6c-adb5-e1ea2a4cea89",
+    "timestamp": "2025-09-01T19:28:31.559752",
+    "user": "user_078",
+    "severity": "Medium",
+    "action": "Login",
+    "privileged_groups": [
+      "CloudOps",
+      "DatabaseAdmins",
+      "AdminGroup",
+      "NetworkAdmins",
+      "SecurityTeam"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "5d79a6aa-7f9f-41f1-bda8-e56ec545ad67",
+    "timestamp": "2025-08-23T02:28:26.559791",
+    "user": "user_084",
+    "severity": "Medium",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "SecurityTeam",
+      "AdminGroup"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "64dd3a0c-9b2e-49d3-83dc-709d48058a92",
+    "timestamp": "2025-09-09T06:28:56.559833",
+    "user": "user_058",
+    "severity": "Medium",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "CloudOps",
+      "AdminGroup"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "a11523b4-ba51-4dc9-96d7-0032cd5a7de3",
+    "timestamp": "2025-08-31T15:14:41.559876",
+    "user": "user_003",
+    "severity": "Medium",
+    "action": "Login",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "AdminGroup",
+      "SecurityTeam",
+      "DatabaseAdmins",
+      "CloudOps"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "2f17e3db-40e3-4c98-8d33-141654180fa0",
+    "timestamp": "2025-08-22T09:23:56.559963",
+    "user": "user_053",
+    "severity": "Medium",
+    "action": "Login",
+    "privileged_groups": [
+      "SecurityTeam",
+      "NetworkAdmins",
+      "AdminGroup"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "d2038965-f41d-42ab-8d0a-dd15194b51f8",
+    "timestamp": "2025-08-25T11:51:52.560054",
+    "user": "user_097",
+    "severity": "Medium",
+    "action": "Login",
+    "privileged_groups": [
+      "CloudOps",
+      "NetworkAdmins",
+      "SecurityTeam"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "f0c321a6-8101-47ae-9d95-a2156eca2502",
+    "timestamp": "2025-09-08T18:44:53.560097",
+    "user": "user_088",
+    "severity": "Medium",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "DatabaseAdmins",
+      "AdminGroup",
+      "CloudOps",
+      "NetworkAdmins",
+      "SecurityTeam"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "5a1f582e-e677-4639-9792-916a0c830b6d",
+    "timestamp": "2025-09-06T17:08:28.560142",
+    "user": "user_086",
+    "severity": "Medium",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "SecurityTeam",
+      "CloudOps"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "3f208db9-3cc4-47ad-970d-5f41fe3f7fa3",
+    "timestamp": "2025-09-12T13:29:12.560180",
+    "user": "user_091",
+    "severity": "Medium",
+    "action": "Login",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "AdminGroup",
+      "CloudOps"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "de680db9-eb14-4f24-ac9c-673a28195490",
+    "timestamp": "2025-09-15T22:34:02.560212",
+    "user": "user_074",
+    "severity": "Medium",
+    "action": "ModifySettings",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "CloudOps",
+      "DatabaseAdmins",
+      "AdminGroup"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "a0a3f4a4-5727-44c7-85c8-e9dcf1c01ea7",
+    "timestamp": "2025-09-09T16:51:53.560241",
+    "user": "user_020",
+    "severity": "Medium",
+    "action": "Login",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "AdminGroup",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "07c709e3-18c2-4681-b57e-b30a9d83b6d5",
+    "timestamp": "2025-08-27T00:39:43.560411",
+    "user": "user_045",
+    "severity": "Medium",
+    "action": "Login",
+    "privileged_groups": [
+      "DatabaseAdmins",
+      "CloudOps",
+      "AdminGroup",
+      "SecurityTeam"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "87013b9b-c37a-41ee-86e0-813e1c951838",
+    "timestamp": "2025-09-02T06:52:12.560464",
+    "user": "user_025",
+    "severity": "Medium",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "SecurityTeam",
+      "AdminGroup",
+      "NetworkAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "cffe5644-c74a-4e92-87cd-a47b982f614a",
+    "timestamp": "2025-09-12T04:44:00.560510",
+    "user": "user_030",
+    "severity": "Medium",
+    "action": "Login",
+    "privileged_groups": [
+      "SecurityTeam",
+      "NetworkAdmins",
+      "CloudOps"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "f0aa54d9-7196-4b75-ab4b-e530b61bfcfc",
+    "timestamp": "2025-09-11T05:31:19.560543",
+    "user": "user_085",
+    "severity": "Medium",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "SecurityTeam",
+      "NetworkAdmins",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "ce8c72d3-5aac-4dba-b31f-cb75deac9c29",
+    "timestamp": "2025-08-25T03:57:44.560566",
+    "user": "user_005",
+    "severity": "Medium",
+    "action": "ModifySettings",
+    "privileged_groups": [
+      "AdminGroup",
+      "NetworkAdmins"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "b041a0ab-2bab-462e-b372-8e54bfb065dd",
+    "timestamp": "2025-09-13T02:34:57.560588",
+    "user": "user_066",
+    "severity": "Medium",
+    "action": "Login",
+    "privileged_groups": [
+      "SecurityTeam",
+      "NetworkAdmins"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "6463e590-bf21-48df-ade2-6ecbd3712776",
+    "timestamp": "2025-09-06T10:23:05.560610",
+    "user": "user_052",
+    "severity": "Medium",
+    "action": "Login",
+    "privileged_groups": [
+      "AdminGroup",
+      "SecurityTeam",
+      "NetworkAdmins",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "cb80d09e-4f42-41de-84f5-c0763c6332fb",
+    "timestamp": "2025-08-28T07:38:45.560630",
+    "user": "user_080",
+    "severity": "Medium",
+    "action": "Login",
+    "privileged_groups": [
+      "SecurityTeam",
+      "CloudOps",
+      "NetworkAdmins",
+      "AdminGroup"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "0ad897d2-3a70-4f6d-aa77-8b82840ee21c",
+    "timestamp": "2025-08-22T07:51:03.560650",
+    "user": "user_077",
+    "severity": "Medium",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "AdminGroup",
+      "DatabaseAdmins",
+      "SecurityTeam"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "a710356d-3101-4ccf-91a1-b01a7f032af4",
+    "timestamp": "2025-08-26T07:44:21.560670",
+    "user": "user_062",
+    "severity": "Medium",
+    "action": "Login",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "CloudOps",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "9a256adb-8c6f-4c81-884d-b75c00b8e120",
+    "timestamp": "2025-08-30T04:42:26.560690",
+    "user": "user_022",
+    "severity": "Medium",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "CloudOps",
+      "NetworkAdmins"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "c381a922-7983-47bc-ad82-d4d78a5bfeb6",
+    "timestamp": "2025-09-03T11:16:45.560709",
+    "user": "user_067",
+    "severity": "Medium",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "CloudOps",
+      "DatabaseAdmins",
+      "AdminGroup"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "39280b24-205e-4bfd-a80e-53676d809724",
+    "timestamp": "2025-08-19T06:56:22.560752",
+    "user": "user_068",
+    "severity": "Medium",
+    "action": "ModifySettings",
+    "privileged_groups": [
+      "SecurityTeam",
+      "CloudOps"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "26e001e9-5a35-47c8-bd9a-a8428bc60440",
+    "timestamp": "2025-08-18T09:11:11.560802",
+    "user": "user_018",
+    "severity": "Medium",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "AdminGroup",
+      "DatabaseAdmins",
+      "SecurityTeam"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "93f2634d-ab5c-4b30-a79e-857b4586647c",
+    "timestamp": "2025-08-28T20:36:37.560843",
+    "user": "user_032",
+    "severity": "Medium",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "SecurityTeam",
+      "AdminGroup",
+      "NetworkAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "84b3b8f9-0fe1-4a8f-823e-a6c4c5ebfa2a",
+    "timestamp": "2025-09-08T07:57:16.560871",
+    "user": "user_094",
+    "severity": "Medium",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "CloudOps"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "fac0513a-0c94-4790-ad7f-2c5ebf05d5d5",
+    "timestamp": "2025-09-15T22:51:53.560892",
+    "user": "user_073",
+    "severity": "Medium",
+    "action": "Login",
+    "privileged_groups": [
+      "DatabaseAdmins",
+      "NetworkAdmins"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "f12a26b9-82b9-4dee-be7c-323feeb2a14a",
+    "timestamp": "2025-09-07T11:35:55.560917",
+    "user": "user_033",
+    "severity": "Medium",
+    "action": "ModifySettings",
+    "privileged_groups": [
+      "SecurityTeam",
+      "AdminGroup"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "32f46407-513f-4980-9c93-863b1a578c5b",
+    "timestamp": "2025-08-25T06:28:36.560944",
+    "user": "user_069",
+    "severity": "Medium",
+    "action": "ModifySettings",
+    "privileged_groups": [
+      "SecurityTeam",
+      "AdminGroup"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "86bcd926-a7c0-4b89-86ea-26b8338f1cb7",
+    "timestamp": "2025-08-19T11:33:52.561104",
+    "user": "user_098",
+    "severity": "Medium",
+    "action": "ModifySettings",
+    "privileged_groups": [
+      "DatabaseAdmins",
+      "NetworkAdmins",
+      "AdminGroup",
+      "SecurityTeam",
+      "CloudOps"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "4f5c9578-0d10-4c9f-b679-9ef12835a10b",
+    "timestamp": "2025-09-10T19:04:30.561144",
+    "user": "user_034",
+    "severity": "Medium",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "SecurityTeam",
+      "CloudOps"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "51d0688f-2a40-43fd-9a0f-a91ff569aac2",
+    "timestamp": "2025-09-16T13:04:12.561167",
+    "user": "user_035",
+    "severity": "Medium",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "DatabaseAdmins",
+      "AdminGroup",
+      "SecurityTeam",
+      "CloudOps"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "d0d7f3a3-5580-4aeb-a33f-7666b705d1ea",
+    "timestamp": "2025-08-29T16:31:23.561189",
+    "user": "user_014",
+    "severity": "Medium",
+    "action": "Login",
+    "privileged_groups": [
+      "CloudOps",
+      "NetworkAdmins",
+      "SecurityTeam",
+      "AdminGroup",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "7e51e1db-a989-4a5a-8bf1-60106c464813",
+    "timestamp": "2025-08-22T23:44:37.561232",
+    "user": "user_013",
+    "severity": "Medium",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "DatabaseAdmins",
+      "AdminGroup"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "9999c046-6acd-4d8c-aef0-3f2cbafa6c25",
+    "timestamp": "2025-09-06T09:26:51.561276",
+    "user": "user_090",
+    "severity": "Medium",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "AdminGroup",
+      "SecurityTeam",
+      "NetworkAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "44d6ba38-fda4-492b-9bde-bcf5943084b7",
+    "timestamp": "2025-09-03T00:17:57.561318",
+    "user": "user_088",
+    "severity": "Medium",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "CloudOps",
+      "SecurityTeam"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "115d1c3a-2e83-472c-a0dc-d61c2ac51950",
+    "timestamp": "2025-08-30T04:19:56.561362",
+    "user": "user_062",
+    "severity": "Medium",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "AdminGroup",
+      "NetworkAdmins",
+      "CloudOps",
+      "SecurityTeam"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "d158136d-fd27-42f7-88f6-e1a01369d723",
+    "timestamp": "2025-08-22T16:09:19.561409",
+    "user": "user_012",
+    "severity": "Medium",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "AdminGroup",
+      "CloudOps"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "57dfe244-d8d1-48bd-b602-bcefc8d47535",
+    "timestamp": "2025-09-01T09:57:29.561455",
+    "user": "user_019",
+    "severity": "Low",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "DatabaseAdmins",
+      "SecurityTeam",
+      "CloudOps"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "bfc40284-dfc2-4e58-aa24-79a67427fafa",
+    "timestamp": "2025-08-27T13:29:28.561485",
+    "user": "user_064",
+    "severity": "Low",
+    "action": "Login",
+    "privileged_groups": [
+      "CloudOps",
+      "DatabaseAdmins",
+      "SecurityTeam",
+      "NetworkAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "5c80fa8a-405c-4536-8815-65a32d01dcb5",
+    "timestamp": "2025-08-31T11:14:09.561504",
+    "user": "user_080",
+    "severity": "Low",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "CloudOps",
+      "AdminGroup"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "5e382879-a928-4139-ae04-fb89fb088c75",
+    "timestamp": "2025-08-31T10:57:59.561524",
+    "user": "user_058",
+    "severity": "Low",
+    "action": "ModifySettings",
+    "privileged_groups": [
+      "SecurityTeam",
+      "DatabaseAdmins",
+      "NetworkAdmins",
+      "CloudOps",
+      "AdminGroup"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "ba1646e7-4ed3-4398-a98f-7990253dce0d",
+    "timestamp": "2025-09-02T13:30:00.561660",
+    "user": "user_098",
+    "severity": "Low",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "846173b2-e40a-43a1-97eb-cd9bbbe1ad3a",
+    "timestamp": "2025-08-27T06:50:48.561942",
+    "user": "user_074",
+    "severity": "Low",
+    "action": "Login",
+    "privileged_groups": [
+      "AdminGroup",
+      "NetworkAdmins",
+      "DatabaseAdmins",
+      "SecurityTeam",
+      "CloudOps"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "ee4d6811-36e0-43a7-a939-3b3c5b735a92",
+    "timestamp": "2025-09-16T13:41:46.561976",
+    "user": "user_008",
+    "severity": "Low",
+    "action": "Login",
+    "privileged_groups": [
+      "CloudOps",
+      "DatabaseAdmins",
+      "NetworkAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "71828f3b-4146-4b81-bf2c-809b0d5fa494",
+    "timestamp": "2025-08-23T21:17:56.561993",
+    "user": "user_085",
+    "severity": "Low",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "DatabaseAdmins",
+      "NetworkAdmins",
+      "SecurityTeam"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "57d549ff-6ae7-4f2e-a97f-a5b35c630e38",
+    "timestamp": "2025-08-29T22:47:37.562004",
+    "user": "user_067",
+    "severity": "Low",
+    "action": "Login",
+    "privileged_groups": [
+      "SecurityTeam",
+      "DatabaseAdmins",
+      "CloudOps"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "282943b2-d3d6-43a8-880e-74484dd3aedc",
+    "timestamp": "2025-08-27T02:52:15.562020",
+    "user": "user_070",
+    "severity": "Low",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "AdminGroup",
+      "SecurityTeam"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "325bfc93-0f5f-4e68-8dc7-894f7e473563",
+    "timestamp": "2025-08-21T09:14:00.562031",
+    "user": "user_023",
+    "severity": "Low",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "SecurityTeam",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "a9049806-1907-4e7c-b2f1-c14428c07341",
+    "timestamp": "2025-09-03T23:57:41.562047",
+    "user": "user_005",
+    "severity": "Low",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "SecurityTeam",
+      "AdminGroup"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "bd5289b6-fb55-4077-9ccd-d4811dff3ec7",
+    "timestamp": "2025-09-03T02:02:17.562057",
+    "user": "user_090",
+    "severity": "Low",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "SecurityTeam",
+      "AdminGroup"
+    ],
+    "gap_detected": false
+  },
+  {
+    "event_id": "31f1ea0c-e8d4-4e9e-bcf7-24bad5f091fc",
+    "timestamp": "2025-08-19T15:14:11.562069",
+    "user": "user_095",
+    "severity": "Low",
+    "action": "DeleteResource",
+    "privileged_groups": [
+      "CloudOps",
+      "AdminGroup",
+      "NetworkAdmins",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "cb80d465-a09f-495a-b652-7cf44ee7ecc5",
+    "timestamp": "2025-08-31T00:11:17.562089",
+    "user": "user_096",
+    "severity": "Low",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "DatabaseAdmins",
+      "CloudOps",
+      "AdminGroup",
+      "SecurityTeam"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "3c6b875b-0798-45b9-a482-9f7f0866fdd4",
+    "timestamp": "2025-09-03T14:32:40.562112",
+    "user": "user_065",
+    "severity": "Low",
+    "action": "Login",
+    "privileged_groups": [
+      "SecurityTeam",
+      "AdminGroup",
+      "NetworkAdmins",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "4a2a3b81-ca58-43e3-8ec0-c789e307d705",
+    "timestamp": "2025-09-13T19:47:34.562135",
+    "user": "user_098",
+    "severity": "Low",
+    "action": "ModifySettings",
+    "privileged_groups": [
+      "SecurityTeam",
+      "CloudOps",
+      "AdminGroup",
+      "DatabaseAdmins",
+      "NetworkAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "7e0113f4-788a-4938-86e5-1b4165976b12",
+    "timestamp": "2025-08-22T23:17:43.562153",
+    "user": "user_069",
+    "severity": "Low",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "CloudOps",
+      "SecurityTeam",
+      "AdminGroup",
+      "DatabaseAdmins",
+      "NetworkAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "3834e369-296a-4ae2-83c3-8473a32563db",
+    "timestamp": "2025-09-10T20:43:40.562172",
+    "user": "user_077",
+    "severity": "Low",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "SecurityTeam",
+      "AdminGroup",
+      "CloudOps",
+      "NetworkAdmins",
+      "DatabaseAdmins"
+    ],
+    "gap_detected": true
+  },
+  {
+    "event_id": "d130898b-44c0-4114-9146-edfe4ed85a9a",
+    "timestamp": "2025-09-14T00:44:24.562190",
+    "user": "user_018",
+    "severity": "Low",
+    "action": "AccessResource",
+    "privileged_groups": [
+      "NetworkAdmins",
+      "AdminGroup",
+      "DatabaseAdmins",
+      "SecurityTeam",
+      "CloudOps"
+    ],
+    "gap_detected": true
+  }
+]
