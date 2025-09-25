@@ -1657,7 +1657,7 @@ config.openai_api_key = "sua_chave_api_key_aqui"
         st.markdown("""
         <div style='text-align: center; color: #666; padding: 2rem;'>
             <p>🛡️ <strong>PrivIQ</strong> - Ferramenta de Análise de Governança para Microsoft Azure</p>
-            <p>Desenvolvido para Hackathon | Versão 2.0 | 2024</p>
+            <p>Desenvolvido para Hackathon | Versão 2.0 | 2025</p>
         </div>
         """, unsafe_allow_html=True)
         
