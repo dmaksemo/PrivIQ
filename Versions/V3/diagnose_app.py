@@ -6,7 +6,7 @@ import os
 from datetime import datetime
 
 def main():
-    st.title("🔍 Diagnóstico do PrivIQ")
+    st.title("🔍 Diagnóstico do PrivilegeIQ")
     
     # Informações do sistema
     st.header("💻 Informações do Sistema")

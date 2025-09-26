@@ -43,11 +43,7 @@ class AzureConfig:
         """Alias for storage_connection_string for compatibility"""
         return self.storage_connection_string
     
-    # Azure Log Analytics Configuration
-    log_analytics_workspace_id: str = os.getenv("AZURE_LOG_ANALYTICS_WORKSPACE_ID", "")
-    log_analytics_tenant_id: str = os.getenv("AZURE_TENANT_ID", "")
-    log_analytics_client_id: str = os.getenv("AZURE_CLIENT_ID", "")
-    log_analytics_client_secret: str = os.getenv("AZURE_CLIENT_SECRET", "")
+
     
     # Data Source Configuration
     default_timeframe: str = "30d"
@@ -69,9 +65,7 @@ class AzureConfig:
         """Check if Blob Storage configuration is complete"""
         return bool(self.storage_account_name and self.storage_account_key)
     
-    def is_log_analytics_configured(self) -> bool:
-        """Check if Log Analytics configuration is complete"""
-        return bool(self.log_analytics_workspace_id and self.log_analytics_tenant_id)
+
     
     def get_openai_config(self) -> dict:
         """Retorna configurações do OpenAI como dicionário."""

@@ -81,7 +81,7 @@ class EnhancedAzureGovernanceApp:
     def render_main_interface(self):
         """Renderiza interface principal aprimorada."""
         
-        st.markdown('<h1 class="main-header">🛡️ PrivIQ - Enterprise Edition</h1>', 
+        st.markdown('<h1 class="main-header">🛡️ PrivilegeIQ - Enterprise Edition</h1>', 
                    unsafe_allow_html=True)
         
         # Sidebar aprimorada
@@ -417,7 +417,7 @@ def enhanced_main():
 if __name__ == "__main__":
     # Configuração da página Streamlit
     st.set_page_config(
-        page_title="PrivIQ - Enterprise",
+        page_title="PrivilegeIQ - Enterprise",
         page_icon="🛡️",
         layout="wide"
     )

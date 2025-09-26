@@ -1,17 +1,17 @@
-# 🛡️ PrivIQ - Plataforma de Governança e Compliance Azure
+# 🛡️ PrivilegeIQ - Plataforma de Governança e Compliance Azure
 
-## Projeto Hackaton IA 2025 | PrivIQ - Plataforma de Governança e Compliance Azure
+## Projeto Hackaton IA 2025 | PrivilegeIQ - Plataforma de Governança e Compliance Azure
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io)
 [![Azure](https://img.shields.io/badge/Azure-Entra%20ID-0078d4.svg)](https://azure.microsoft.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**PrivIQ** é uma plataforma inteligente de análise de governança e compliance para ambientes Azure, desenvolvida para identificar riscos de segurança, violações de compliance e oportunidades de melhoria em tempo real.
+**PriPrivilegeIQvIQ** é uma plataforma inteligente de análise de governança e compliance para ambientes Azure, desenvolvida para identificar riscos de segurança, violações de compliance e oportunidades de melhoria em tempo real.
 
 ## 🎯 **O que faz?**
 
-O PrivIQ analisa logs do **Azure Entra ID** (antigo Active Directory) e **Azure Activity Logs** para:
+O PrivilegeIQ analisa logs do **Azure Entra ID** (antigo Active Directory) e **Azure Activity Logs** para:
 
 - 🔍 **Detectar violações de governança** (SOD, privilégios excessivos, acessos suspeitos)
 - 📊 **Gerar relatórios de compliance** para frameworks como SOX, NIST, ISO27001, GDPR

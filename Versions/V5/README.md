@@ -1,6 +1,6 @@
 # PrivilegeIQ - Versão 2.0 Melhorada 🛡️
 
-Uma ferramenta avançada de análise de governança e compliance para Microsoft Azure e Entra ID, com inteligência artificial e análise forense de logs de auditoria.
+Uma ferramenta avançada de análise de governança e conformidade para Microsoft Azure e Entra ID, com inteligência artificial e análise forense de logs de auditoria.
 
 ## 🚀 Principais Melhorias Implementadas
 
@@ -139,8 +139,8 @@ streamlit run app.py
 ## 📊 Dashboards Disponíveis
 
 ### **Dashboard Executivo**
-- Score de risco geral
-- Score de compliance
+- Pontuação de risco geral
+- Pontuação de compliance
 - KPIs principais de governança
 - Distribuição de achados por severidade
 
@@ -152,7 +152,7 @@ streamlit run app.py
 
 ### **Compliance**
 - Análise por framework
-- Scores específicos (SOX, NIST, etc.)
+- Pontuações específicas (SOX, NIST, etc.)
 - Lacunas críticas
 - Plano de ação
 
@@ -179,7 +179,7 @@ python test_improvements.py
 
 ## 🎯 Casos de Uso Principais
 
-### **Auditoria de Compliance**
+### **Auditoria de Conformidade**
 - Verificação automática de conformidade com SOX, NIST, ISO27001
 - Identificação de lacunas críticas
 - Geração de relatórios para auditores
